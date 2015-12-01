@@ -8,6 +8,6 @@ DCHQ On-Premise -- Issue Tracker
 This repository will be used to track issues in **DCHQ On-Premise**
 #http://dchq.co/dchq-on-premise.html
 
-Click on **Issues** on the right-hand side to either submit or track issues.
+Click on the **Issues** tab to either submit or track issues.
 
 You can reach out to founders@dchq.io for a prompt response as well.
